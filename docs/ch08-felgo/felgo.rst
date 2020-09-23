@@ -33,9 +33,9 @@ The screenshot below showcases how a single code base can be themed to look nati
 
 .. figure:: images/felgo-showcase-themes.jpg
 
-Felgo is a Qt Technology Partner, and the SDK, which we will use in this chapter, can greatly help you save time and money when developing Qt applications. As the Felgo SDK extends Qt, it is possible to mix Felgo APIs with existing Qt and QML code. This means that you can add Felgo to your existing applications. In addition to the Felgo SDK, Felgo also provides consulting and training.
-
 .. admonition:: Why choose Felgo?
+
+    Felgo is a Qt Technology Partner, and the SDK, which we will use in this chapter, can greatly help you save time and money when developing Qt applications. As the Felgo SDK extends Qt, it is possible to mix Felgo APIs with existing Qt and QML code. This means that you can add Felgo to your existing applications. In addition to the Felgo SDK, Felgo also provides consulting and training.
 
     Felgo takes the cross platform story one step further. It lets you get more done from QML and reduces the need to write complex C++ code. For instance, the `Felgo Qt World Summit Conference <https://github.com/FelgoSDK/Qt-World-Summit-Conference-App>`_ App, used at the annual Qt World Summit conference, has saved 90% code compared to the pure `Qt/QML implementation <https://github.com/ekke/c2gQtCon_x>`_.
 
@@ -380,13 +380,12 @@ In the example below, we show how to download a PDF file and then open it with t
 Summary
 =======
 
-The Felgo SDK brings a lot of benefits to Qt/QML development. It allows you to create cross-platform apps that look native on: Android, iOS, Desktop, Web (WebAssembly) and Embedded systems. Supporting all kinds of devices,  regardless of their different screen sizes and densities.
+The Felgo SDK helps create cross-platform apps that look native on Android, iOS, Desktop, Web (WebAssembly) and Embedded systems quicker and easier. It makes it easy to support all kinds of devices, regardless of their different screen sizes and densities.
 
-Use the navigation components to build your main menu and implement hierarchies of pages. Compose your page content with Felgo controls, lists and models. Introduce logic for data handling, storage, networking or to access native APIs like the device camera, contacts or dialogs. For all these areas, you can save a lot of time with a big variety of carefully constructed QML components.
-
-Felgo provides you with all important tools for cross-platform app development with QML. Instead of worrying about pitfalls and issues that aren’t specific to your project, you can focus on the actual work for your application. The customization options of Felgo leverage the flexibility of QML and are perfect for custom UI and branded apps. You can control the look with app-wide theme settings and freely customize or mix-in your own QML if needed.
+Felgo provides QML components for navigation, helping to build your main menu and implement hierarchies of pages. The Felgo controls, lists and models helps you compose the page contents, and you also get access to  APIs for data handling, storage, networking, or to access native APIs like the device camera, contacts or dialogs.
 
 .. admonition:: More about Felgo
+    Felgo provides you with all important tools for cross-platform app development with QML. Instead of worrying about pitfalls and issues that aren't specific to your project, you can focus on the actual work for your application. The customization options of Felgo leverage the flexibility of QML and are perfect for custom UI and branded apps. You can control the look with app-wide theme settings and freely customize or mix-in your own QML if needed.
 
     This is just scratching the surface of what Felgo offers. You can see the `full documentation <https://felgo.com/doc/>`_, which also includes a large selection of `Felgo Plugins <https://felgo.com/plugins>`_. If you want to learn more about the Felgo SDK and application development with QML, explore free `webinars <https://felgo.com/resources/white-papers-and-webinars>`_ or join one of the scheduled `trainings <https://felgo.com/training-offers>`_.
 
